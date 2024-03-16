@@ -1,9 +1,9 @@
 @font-face{
-    src: url("../fonts/Public_Sans/static/PublicSans-Thin.ttf")format("truetype");
+    src: url("..fonts/Public_Sans/static/PublicSans-Thin.ttf")format("truetype");
     font-family: "Publicsans-thin" ;
 }
 @font-face{
-    src: url("../fonts/Public_Sans/static/PublicSans-Regular.ttf")format("truetype");
+    src: url("..fonts/Public_Sans/static/PublicSans-Regular.ttf")format("truetype");
     font-family: "Publicsans-Regular";
 }
 :root {
